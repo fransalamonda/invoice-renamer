@@ -142,7 +142,7 @@ logs/process.log
 Contoh:
 
 SUCCESS:
-PT_ALUR_BIRU_MARITIM_C123-00026.pdf
+PT_FR_SL_MND_C123-00026.pdf
 
 FAILED:
 UNKNOWN_COMPANY_NO_INVOICE.pdf
@@ -151,9 +151,9 @@ UNKNOWN_COMPANY_NO_INVOICE.pdf
 
 ## Vendor Yang Sudah Diuji
 
-* PT Alur Biru Maritim
-* PT Yuan Wira Perdana
-* PT Satra Prima Niaga
+* PT Fran Sala Monda
+* PT FR SL MND
+* PT Satra Prima
 
 ---
 
