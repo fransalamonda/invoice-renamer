@@ -1,0 +1,12 @@
+# Mengabaikan virtual environment
+venv/
+.venv/
+
+# Mengabaikan isi folder tetapi mempertahankan foldernya di Git (opsional)
+failed/*
+input/*
+output/*
+
+# Mengabaikan file log atau sistem otomatis (jika ada)
+*.log
+.DS_Store
